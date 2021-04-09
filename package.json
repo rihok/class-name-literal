@@ -1,12 +1,13 @@
 {
   "name": "class-name-literal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "String literal function to build class names.",
   "main": "dist/index.js",
   "repository": "https://github.com/rihok/class-name-literal",
   "author": "Riho Kroll",
   "license": "MIT",
   "private": false,
+  "keywords": ["classlist", "classname", "classes", "css", "class", "string literal", "BEM"],
   "scripts": {
     "start": "tsc -watch",
     "build": "tsc"
